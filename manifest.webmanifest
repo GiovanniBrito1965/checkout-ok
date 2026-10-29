@@ -1,30 +1,30 @@
 {
- "name": "Checkout OK",
- "short_name": "Checkout OK",
- "description": "Check-out e faxina do imóvel de temporada: vistoria, fotos e recibo, mesmo sem internet.",
- "lang": "pt-BR",
- "start_url": "./",
- "scope": "./",
- "display": "standalone",
- "orientation": "portrait",
- "background_color": "#EEF3F4",
- "theme_color": "#0A6670",
- "icons": [
-  {
-   "src": "icons/icon-192.png",
-   "sizes": "192x192",
-   "type": "image/png"
-  },
-  {
-   "src": "icons/icon-512.png",
-   "sizes": "512x512",
-   "type": "image/png"
-  },
-  {
-   "src": "icons/icon-maskable-512.png",
-   "sizes": "512x512",
-   "type": "image/png",
-   "purpose": "maskable"
-  }
- ]
+  "name": "ComoFicou",
+  "short_name": "ComoFicou",
+  "description": "Registro fotográfico do imóvel após cada estadia",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3F4",
+  "theme_color": "#0A6670",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
